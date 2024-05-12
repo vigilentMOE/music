@@ -11,5 +11,6 @@
 Web framework is flask
 
 ### To do: 
-- [ ] Add mypy and requirements installation to Makefile
-- [ ] Initially configure pyproject.toml
+- [x] Add mypy and requirements installation to Makefile
+- [x] Initially configure pyproject.toml
+- [x] Initial app functionality 
