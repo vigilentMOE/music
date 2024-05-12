@@ -1,0 +1,6 @@
+apiVersion: v2
+name: music-app-chart
+description: chart for handling all music-app-resources
+type: application
+version: 0.0.1
+appVersion: 0.0.1
